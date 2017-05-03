@@ -1,2 +1,2 @@
-# AdminControlPanel
-Admin Control Panel for Project Reality Roleplay
+# UserControlPanel
+User Control Panel for Project Reality Roleplay
