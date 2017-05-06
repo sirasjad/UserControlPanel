@@ -4,7 +4,7 @@
 
 $name = 'Diverse Roleplay';
 $version = '1.0';
-$url = 'http://sirageek.com';
+$url = '#';
 $email = '#';
 
 $developer = 'Sira';
