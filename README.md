@@ -1,2 +1,2 @@
 # UserControlPanel
-User Control Panel for Project Reality Roleplay
+User Control Panel for Diverse Roleplay
