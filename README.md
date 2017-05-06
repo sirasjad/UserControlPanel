@@ -1,2 +1,2 @@
 # UserControlPanel
-User Control Panel for Diverse Roleplay
+This UCP is still in development.
