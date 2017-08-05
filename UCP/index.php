@@ -1,4 +1,4 @@
-<!-- Coded by Sira @ D-RP | Contact: sirasjad@gmail.com -->
+<!-- Coded by Sira @ PR-RP | Contact: sirasjad@gmail.com -->
 
 <?php
 session_start(); ob_start();

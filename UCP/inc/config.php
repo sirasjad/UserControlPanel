@@ -2,9 +2,9 @@
 // 				  Configuration file
 // ==================================================
 
-$name = 'Diverse Roleplay';
+$name = 'Project Reality Roleplay';
 $version = '1.0';
-$url = '#';
+$url = 'www.pr-rp.com';
 $email = '#';
 
 $developer = 'Sira';
